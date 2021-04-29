@@ -2,7 +2,7 @@
 
 
 ## Lambda
-* Lambda is to function what acquaintenance is to friend.
+* Lambda is to function what acquaintance is to friend.
 * Python, JavaScript (an arrow/anonymous function)
 
 
@@ -15,7 +15,7 @@
 
 ## List Comprehensions
 * Condense the number of lines of code to do the required task
-* For loop that generates a list, written in one line instead of 4 or more
+* A For loop that generates a list, written in one line instead of 4 or more.
 
 
 ## Static Website
